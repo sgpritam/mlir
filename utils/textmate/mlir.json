@@ -92,16 +92,16 @@
       "name":"keyword.module.mlir"
     },
     {
-      "include":"#identifier"
+      "include":"# identifier"
     },
     {
-      "include":"#branch_target"
+      "include":"# branch_target"
     },
     {
-      "include":"#attribute"
+      "include":"# attribute"
     },
     {
-      "include":"#types"
+      "include":"# types"
     },
     {
       "include":"#integer"
